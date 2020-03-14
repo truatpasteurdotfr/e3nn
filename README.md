@@ -1,4 +1,6 @@
 # E3NN
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/truatpasteurdotfr/e3nn/master)
+
 The group E(3) is the group of 3 dimensional rotations, translations and mirror.
 This library aims to create E(3) equivariant convolutional neural networks.
 
