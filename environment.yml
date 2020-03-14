@@ -1,4 +1,4 @@
-name: base
+name: e3nn
 channels:
   - pytorch
   - conda-forge
